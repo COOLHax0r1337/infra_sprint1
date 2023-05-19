@@ -1,0 +1,5 @@
+IP: 158.160.67.219;
+name_taski: https://sladkiygladiator.bounceme.net;
+name_kittygramL https://http://kittymeow.hopto.org;
+login: kittyuser;
+password: 12345;
